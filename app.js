@@ -10,10 +10,6 @@ const main = document.getElementById('main');
 //initially getting fav movies by popularity
 getMovies(APIURL);
 
-document.getElementById('btn').onclick=function()
-  {
-    getMovies(APIURL);
-  }
 
 
 //fetching the data from TMDB API
