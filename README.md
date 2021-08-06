@@ -1,7 +1,7 @@
 # MoviesAPP
 # https://abhishekhshukla.github.io/movisApp/
 ## Basic Overview
-### A simple API based web application which initially show movies on bases of popularity, There is an search bar on top right side where you can search movi of your choice or just enter keyword related to that movie and you will get the result. More than 100K movies of different languages are available in data base 
+### A simple API based web application which initially shows movies on bases of popularity, There is an search bar on top right side where you can search movis of your choice or just enter keyword related to that movie and you will get the result. More than 100K movies of different languages are available in data base 
 ## What happens when you search somthing
 ### It reads data and makes request through API to themoviedb.org and fetch the data, The data which it receives is get stored in array and then accessed by the script which I had written. 
 ## What happens if Data not found
